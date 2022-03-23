@@ -1,0 +1,21 @@
+.header li {
+  margin: 1rem auto;
+  padding-top: 1rem;
+  list-style: none;
+}
+
+.header button {
+  font: inherit;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.header button:hover {
+  color: #38015c;
+  background-color: #c291e2;
+}

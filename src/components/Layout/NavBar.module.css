@@ -1,0 +1,47 @@
+  
+  .header ul {
+    list-style: none;
+    margin-left: 10rem;
+    padding: 10rem;
+    display: flex;
+    align-items:right;
+  }
+  
+  .header li {
+    margin: 1rem auto;
+    padding-top: 2rem;
+  }
+  
+  .header a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .header a:hover {
+    color: #c291e2;
+  }
+  
+  .header button {
+    font: inherit;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1.5rem;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .header button:hover {
+    color: #38015c;
+    background-color: #c291e2;
+  }
+  
+  .logo {
+    color: white;
+    font-size: 2rem;
+    font-family: sans-serif, "Lato";
+    margin: 0;
+  }
+  
